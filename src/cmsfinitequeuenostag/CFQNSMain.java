@@ -2543,12 +2543,12 @@ public class CFQNSMain {
         }
         try {
             Log.disable();
-            chayvoilamdathaydoimultiqueues();
+//            chayvoilamdathaydoimultiqueues();
 
 //            chayvoilamdathaydoisinglequeue();
 //            chayvoilamdathaydoisinglequeuekomiddle();
 
-//            chayvoilamdathaydoisinglequeuegioihansomaychu();
+            chayvoilamdathaydoisinglequeuegioihansomaychu();
 //            chayvoilamdathaydoisinglequeuekomiddlegioihansomaychu();
         } catch (IOException e) {
             e.printStackTrace();
