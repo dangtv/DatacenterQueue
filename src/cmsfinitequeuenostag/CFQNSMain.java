@@ -2548,8 +2548,8 @@ public class CFQNSMain {
 //            chayvoilamdathaydoisinglequeue();
 //            chayvoilamdathaydoisinglequeuekomiddle();
 
-            chayvoilamdathaydoisinglequeuegioihansomaychu();
-//            chayvoilamdathaydoisinglequeuekomiddlegioihansomaychu();
+//            chayvoilamdathaydoisinglequeuegioihansomaychu();
+            chayvoilamdathaydoisinglequeuekomiddlegioihansomaychu();
         } catch (IOException e) {
             e.printStackTrace();
         }
