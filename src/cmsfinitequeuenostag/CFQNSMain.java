@@ -18,7 +18,7 @@ public class CFQNSMain {
     public static int[] capacity = {100};//, 3000, 2000, 1000};
     public static double[] listThrUp = {0.8};
     public static double[] listThrDown = {0.2};
-    public static int timetomiddle = 400;
+    public static int timetomiddle = 500;
 
     public static void chayvoilamdathaydoimultiqueues() throws IOException {
          // file luu kq
@@ -2543,12 +2543,12 @@ public class CFQNSMain {
         }
         try {
             Log.disable();
-            chayvoilamdathaydoimultiqueues();
+//            chayvoilamdathaydoimultiqueues();
 
 //            chayvoilamdathaydoisinglequeue();
 //            chayvoilamdathaydoisinglequeuekomiddle();
 
-//            chayvoilamdathaydoisinglequeuegioihansomaychu();
+            chayvoilamdathaydoisinglequeuegioihansomaychu();
 //            chayvoilamdathaydoisinglequeuekomiddlegioihansomaychu();
         } catch (IOException e) {
             e.printStackTrace();
