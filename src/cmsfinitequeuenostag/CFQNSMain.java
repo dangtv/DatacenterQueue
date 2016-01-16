@@ -28,7 +28,7 @@ public class CFQNSMain {
 
         boolean hasTimeInitQueue = true; // thay doi cai nay phai thay doi ham init() trong file datacenter
 
-        double[] lamdaarray = {1,3,5,7,9,11,13,15,17,19};
+        double[] lamdaarray = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25};
         int n = lamdaarray.length;
 
         double[] meanWaittimeNoMiddle = new double[n];
@@ -2543,12 +2543,12 @@ public class CFQNSMain {
         }
         try {
             Log.disable();
-//            chayvoilamdathaydoimultiqueues();
+            chayvoilamdathaydoimultiqueues();
 
 //            chayvoilamdathaydoisinglequeue();
 //            chayvoilamdathaydoisinglequeuekomiddle();
 
-            chayvoilamdathaydoisinglequeuegioihansomaychu();
+//            chayvoilamdathaydoisinglequeuegioihansomaychu();
 //            chayvoilamdathaydoisinglequeuekomiddlegioihansomaychu();
         } catch (IOException e) {
             e.printStackTrace();
