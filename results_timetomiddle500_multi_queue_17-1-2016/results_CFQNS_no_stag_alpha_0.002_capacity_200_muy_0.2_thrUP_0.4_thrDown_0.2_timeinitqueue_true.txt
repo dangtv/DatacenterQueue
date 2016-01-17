@@ -1,0 +1,38 @@
+
+--------------------------------------
+alpha = 0.002
+
+close all
+lamda = [1.0, 3.0, 5.0, 7.0, 9.0, 11.0, 13.0, 15.0, 17.0, 19.0];
+mean_waitting_time200 = [83.06028773337614, 50.24301051042059, 40.309502376798385, 33.57661344467496, 29.123672915738613, 22.535897803405067, 17.702985668315353, 16.594469463388073, 15.91136206954736, 15.436054416489602];
+mean_response_time200 = [88.06582007402554, 55.243373893035916, 45.31101381328035, 38.576750506176424, 34.123113078724906, 27.535535427561122, 22.702417327186307, 21.59402377385259, 20.910972458716376, 20.4354270390284];
+mean_number_of_middle_server200 = [0.3691687569093548, 0.6060851335530208, 0.7936538335965027, 0.9488820030497879, 4.509644158471058, 4.694867302605506, 4.2972441715524194, 3.307426879319434, 2.5754694690664537, 1.9396861807583416];
+mean_number_of_setup_server200 = [6.91458353996322, 12.898915394696527, 17.73640682908463, 21.62147003736011, 25.357000339075483, 30.35180768778559, 31.850372723489006, 33.75937729538374, 35.43034313909811, 36.626448814623195];
+mean_number_of_on_server200 = [5.001444869064912, 15.011937128613908, 25.00660422946859, 34.99280744405403, 44.981008244946, 55.00769274966493, 64.99555688704962, 74.99134001336942, 84.9790603787041, 94.99028398283262];
+mean_number_of_off_to_middle_server200 = [26.280850214971036, 57.9893855814095, 86.22677543328648, 111.30354099179088, 130.27574294719403, 135.67245516812696, 142.40515160676435, 155.5457898027207, 166.6882889593882, 175.4109746818967];
+mean_number_turned_off200 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+max_number_of_queue200 = [4, 7, 10, 14, 13, 21, 23, 31, 36, 43];
+time_next200 = [28.363019877927623, 16.292282531371594, 12.606719615139342, 10.694088798281653, 9.554944289184224, 8.860092374057691, 8.456144625294542, 8.260140912203815, 8.225188876219173, 8.326025418872804];
+job_lost_ratio200 = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0];
+mean_number_of_ON_queue200 = [1.0192622710952912, 1.1083020074425776, 1.2270161147170942, 1.3122450466789406, 1.422079692727188, 1.6773347896779491, 1.726120250811733, 1.7796774774101496, 1.835880356435464, 1.8964435468036436];
+mean_number_of_WAITING_queue200 = [0.025797662415510944, 0.046348512537631496, 0.07346453056053097, 0.07866433821015635, 0.18642894889012968, 0.3026657260072048, 0.2858061863438424, 0.24017406263378077, 0.19493487374353652, 0.15352605162287694];
+
+_____________________________
+
+plot(lamda,mean_waitting_time,'r',lamda,mean_waitting_time_no_middle,'-xb');
+title('alpha = 0.002'); xlabel('lamda');ylabel('mean waitting time');
+legend('with middle','no middle');
+ylim([0 max(max(mean_waitting_time),max(mean_waitting_time_no_middle))*10/9]);figure(2);
+plot(lamda,mean_number_of_middle_server,'r'); title('alpha = 0.002');xlabel('lamda');ylabel('mean number of middle server');
+ylim([0 max(mean_number_of_middle_server)*10/9]);figure(3);
+plot(lamda,mean_number_of_off_to_middle_server,'r'); title('alpha = 0.002');xlabel('lamda');ylabel('mean number off to middle server');
+ylim([0 max(mean_number_of_off_to_middle_server)*10/9]);figure(4);
+plot(lamda,mean_number_of_setup_server,'r',lamda,mean_number_of_setup_server_no_middle,'-xb');
+title('alpha = 0.002'); xlabel('lamda');ylabel('mean number setup server');
+legend('with middle','without middle');
+ylim([0 max(max(mean_number_of_setup_server),max(mean_number_of_setup_server_no_middle))*10/9]);figure(5);
+plot(lamda,mean_number_of_on_server,'r',lamda,mean_number_of_on_server_no_middle,'-xb');
+title('alpha = 0.002'); xlabel('lamda');ylabel('mean number on server');
+legend('with middle','without middle');
+ylim([0 max(max(mean_number_of_on_server),max(mean_number_of_on_server_no_middle))*10/9]);
+--------------------------------------
