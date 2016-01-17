@@ -1,0 +1,1040 @@
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 1.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002021.610972968
+(with middle) mean waitting time: 76.77771678348155
+(with middle) mean response time: 81.77425107356602
+mean Middle server Length: 0.29221798880431543
+mean Off to Middle server Length: 31.85189137483083
+mean setup server Length: 8.626081851603841
+mean ON server Length: 4.995483273515766
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 3999334.0
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 10
+so lan tat may ON  0
+so luong queue ON trung binh:  1.4328409770937203
+so luong queue Waiting trung binh:  0.06863236738803812
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 2.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8003413.42274915
+(with middle) mean waitting time: 53.534417259535196
+(with middle) mean response time: 58.5327162872119
+mean Middle server Length: 0.3741635971350551
+mean Off to Middle server Length: 50.097073562023986
+mean setup server Length: 12.586652362566582
+mean ON server Length: 9.994158503306902
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 7998344.0
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 18
+so lan tat may ON  0
+so luong queue ON trung binh:  1.7163147175126463
+so luong queue Waiting trung binh:  0.07620298617838364
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 3.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001603.77594337
+(with middle) mean waitting time: 42.68324542075161
+(with middle) mean response time: 47.681980080880535
+mean Middle server Length: 0.38801825661119305
+mean Off to Middle server Length: 61.19349941972105
+mean setup server Length: 15.997724878835784
+mean ON server Length: 14.990096635895242
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 1.1995386E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 23
+so lan tat may ON  0
+so luong queue ON trung binh:  2.0766720522184805
+so luong queue Waiting trung binh:  0.09653504730392604
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 4.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002192.491194679
+(with middle) mean waitting time: 35.23202549849933
+(with middle) mean response time: 40.23139719269065
+mean Middle server Length: 0.2530141351987199
+mean Off to Middle server Length: 66.20882046862886
+mean setup server Length: 17.20042235804467
+mean ON server Length: 19.992749065058128
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 1.5996378E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 29
+so lan tat may ON  0
+so luong queue ON trung binh:  2.2755322841157715
+so luong queue Waiting trung binh:  0.06115382395204095
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 5.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001751.479047042
+(with middle) mean waitting time: 32.48133510825712
+(with middle) mean response time: 37.4831099704438
+mean Middle server Length: 0.1727469355116363
+mean Off to Middle server Length: 69.2165319158398
+mean setup server Length: 18.536429842067157
+mean ON server Length: 24.998431295152706
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 1.999213E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 43
+so lan tat may ON  0
+so luong queue ON trung binh:  2.513278105687801
+so luong queue Waiting trung binh:  0.03880425668491106
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 6.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002707.36309974
+(with middle) mean waitting time: 29.958761102787342
+(with middle) mean response time: 34.95773165985929
+mean Middle server Length: 0.1397190748365838
+mean Off to Middle server Length: 67.28811957210402
+mean setup server Length: 19.27963968692709
+mean ON server Length: 29.990505088407662
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 2.3997974E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 49
+so lan tat may ON  0
+so luong queue ON trung binh:  2.799121166787247
+so luong queue Waiting trung binh:  0.030857217058603503
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 7.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001641.349804332
+(with middle) mean waitting time: 28.105061320515873
+(with middle) mean response time: 33.10461392103135
+mean Middle server Length: 0.12835064012278802
+mean Off to Middle server Length: 66.72817156838562
+mean setup server Length: 20.07469451656683
+mean ON server Length: 34.9965686854781
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 2.8001693E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 64
+so lan tat may ON  0
+so luong queue ON trung binh:  3.1061316144591378
+so luong queue Waiting trung binh:  0.027889329889209623
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 8.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001819.9801921565
+(with middle) mean waitting time: 27.181554344252213
+(with middle) mean response time: 32.18220043475381
+mean Middle server Length: 0.10817395881819201
+mean Off to Middle server Length: 66.2586619793098
+mean setup server Length: 20.94767402588559
+mean ON server Length: 40.013539329963564
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 3.2008029E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 75
+so lan tat may ON  0
+so luong queue ON trung binh:  3.4378645712262546
+so luong queue Waiting trung binh:  0.025708638963062955
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 9.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8004656.679216481
+(with middle) mean waitting time: 26.516530784571724
+(with middle) mean response time: 31.51523190506668
+mean Middle server Length: 0.084795758722172
+mean Off to Middle server Length: 62.33696763806726
+mean setup server Length: 21.431225127793844
+mean ON server Length: 44.98402517734211
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 3.5998616E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 83
+so lan tat may ON  0
+so luong queue ON trung binh:  3.819012557817086
+so luong queue Waiting trung binh:  0.022802801120605967
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 10.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002489.215221852
+(with middle) mean waitting time: 25.578166498820696
+(with middle) mean response time: 30.579815348283113
+mean Middle server Length: 0.07106427670125594
+mean Off to Middle server Length: 60.25215332508337
+mean setup server Length: 21.779091311982782
+mean ON server Length: 50.0104291162049
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 3.9996288E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 99
+so lan tat may ON  0
+so luong queue ON trung binh:  4.149401232022959
+so luong queue Waiting trung binh:  0.021186922397382693
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 11.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002247.07705648
+(with middle) mean waitting time: 24.451065629909724
+(with middle) mean response time: 29.45050765094079
+mean Middle server Length: 0.06036457878888375
+mean Off to Middle server Length: 60.591319178001804
+mean setup server Length: 22.268469899515306
+mean ON server Length: 54.98656673613219
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 4.3997471E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 105
+so lan tat may ON  0
+so luong queue ON trung binh:  4.397897814344505
+so luong queue Waiting trung binh:  0.018303100315462496
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 12.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001942.171737674
+(with middle) mean waitting time: 23.968607414436086
+(with middle) mean response time: 28.9681253116827
+mean Middle server Length: 0.05062224096804508
+mean Off to Middle server Length: 58.600036474351526
+mean setup server Length: 22.63866995043696
+mean ON server Length: 59.9933537844463
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 4.8002519E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 123
+so lan tat may ON  0
+so luong queue ON trung binh:  4.771013074781456
+so luong queue Waiting trung binh:  0.015835707824319107
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 13.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001923.713693711
+(with middle) mean waitting time: 22.802201198340835
+(with middle) mean response time: 27.80177178980443
+mean Middle server Length: 0.04141862708867912
+mean Off to Middle server Length: 55.24494996040971
+mean setup server Length: 22.394128226058484
+mean ON server Length: 64.98722977925716
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 5.1996975E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 133
+so lan tat may ON  0
+so luong queue ON trung binh:  5.0701796382391
+so luong queue Waiting trung binh:  0.014018496058962363
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 14.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002324.05908023
+(with middle) mean waitting time: 22.044753921132095
+(with middle) mean response time: 27.044451608708577
+mean Middle server Length: 0.044925682166702695
+mean Off to Middle server Length: 55.65692830755757
+mean setup server Length: 22.968337218013673
+mean ON server Length: 69.99498390836685
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 5.6002724E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 144
+so lan tat may ON  0
+so luong queue ON trung binh:  5.342644074873274
+so luong queue Waiting trung binh:  0.013412926803669203
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 15.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8003132.004323036
+(with middle) mean waitting time: 21.821596831233084
+(with middle) mean response time: 26.822161839372114
+mean Middle server Length: 0.035646220901860155
+mean Off to Middle server Length: 53.54428019809699
+mean setup server Length: 23.184988195893233
+mean ON server Length: 75.01062881518769
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 6.0003793E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 155
+so lan tat may ON  0
+so luong queue ON trung binh:  5.761180659682287
+so luong queue Waiting trung binh:  0.011520575661653444
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 16.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001436.235669838
+(with middle) mean waitting time: 21.18820713657077
+(with middle) mean response time: 26.18883627879187
+mean Middle server Length: 0.0358308607846715
+mean Off to Middle server Length: 53.914233798329676
+mean setup server Length: 23.541375871767897
+mean ON server Length: 80.00360103338865
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 6.4002914E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 166
+so lan tat may ON  0
+so luong queue ON trung binh:  6.013613777345458
+so luong queue Waiting trung binh:  0.010610785995676658
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 17.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002017.42007392
+(with middle) mean waitting time: 20.827115724654913
+(with middle) mean response time: 25.82751411983703
+mean Middle server Length: 0.03127693620424997
+mean Off to Middle server Length: 54.82256145678596
+mean setup server Length: 24.176195211681307
+mean ON server Length: 85.00163539988083
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 6.7999553E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 175
+so lan tat may ON  0
+so luong queue ON trung binh:  6.294181876928188
+so luong queue Waiting trung binh:  0.009876255508160316
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 18.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001822.937799702
+(with middle) mean waitting time: 20.485402061068385
+(with middle) mean response time: 25.485490876394625
+mean Middle server Length: 0.028768302867770195
+mean Off to Middle server Length: 52.15974054855566
+mean setup server Length: 23.904909779427147
+mean ON server Length: 90.01961857969683
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 7.2018539E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 195
+so lan tat may ON  0
+so luong queue ON trung binh:  6.71010195248788
+so luong queue Waiting trung binh:  0.008977115102053925
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 19.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002771.15812981
+(with middle) mean waitting time: 20.13123526130915
+(with middle) mean response time: 25.1307422654337
+mean Middle server Length: 0.024667248066134868
+mean Off to Middle server Length: 52.87933204796966
+mean setup server Length: 24.506214398720516
+mean ON server Length: 95.00717051405319
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 7.6017381E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 209
+so lan tat may ON  0
+so luong queue ON trung binh:  6.992423548488738
+so luong queue Waiting trung binh:  0.008370909682195069
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 20.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002193.609837894
+(with middle) mean waitting time: 19.508467353315073
+(with middle) mean response time: 24.508038949932637
+mean Middle server Length: 0.023290447321997955
+mean Off to Middle server Length: 53.09246078050399
+mean setup server Length: 24.814381435552516
+mean ON server Length: 99.99423566164818
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 8.0011627E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 217
+so lan tat may ON  0
+so luong queue ON trung binh:  7.215641674464495
+so luong queue Waiting trung binh:  0.007677341387139521
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 21.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002568.169734997
+(with middle) mean waitting time: 19.131652642023692
+(with middle) mean response time: 24.131544938352377
+mean Middle server Length: 0.025135657764614443
+mean Off to Middle server Length: 53.689183483421324
+mean setup server Length: 25.263392553117285
+mean ON server Length: 104.98948474402562
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 8.4000898E7
+**** total job lost: 2
+**** ti le job lost = joblost / numberofjob: 2.380926927709749E-8
+total vm: 0
+total sub datacenter create: 222
+so lan tat may ON  0
+so luong queue ON trung binh:  7.4635416103354135
+so luong queue Waiting trung binh:  0.007099714583231346
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 22.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002207.720205726
+(with middle) mean waitting time: 18.76383796927477
+(with middle) mean response time: 23.764145001959868
+mean Middle server Length: 0.022957572424258804
+mean Off to Middle server Length: 54.275006867596296
+mean setup server Length: 25.872094746709802
+mean ON server Length: 109.99075613506913
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 8.7994239E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 243
+so lan tat may ON  0
+so luong queue ON trung binh:  7.724144629732405
+so luong queue Waiting trung binh:  0.006855996714809218
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 23.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001753.9886263
+(with middle) mean waitting time: 18.300614233305637
+(with middle) mean response time: 23.300629822086528
+mean Middle server Length: 0.022341841213193953
+mean Off to Middle server Length: 54.66777201397195
+mean setup server Length: 26.209645570380367
+mean ON server Length: 115.00510348313841
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 9.2012878E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 256
+so lan tat may ON  0
+so luong queue ON trung binh:  7.951556242095498
+so luong queue Waiting trung binh:  0.006325230194235613
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 24.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002169.243993499
+(with middle) mean waitting time: 18.21341732618125
+(with middle) mean response time: 23.212747635896104
+mean Middle server Length: 0.017686011096177737
+mean Off to Middle server Length: 51.92662805637564
+mean setup server Length: 25.748420908681467
+mean ON server Length: 119.9621557186162
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 9.5991595E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 279
+so lan tat may ON  0
+so luong queue ON trung binh:  8.451737187462713
+so luong queue Waiting trung binh:  0.005819340813198954
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 50 lamda = 25.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002247.530382779
+(with middle) mean waitting time: 18.150899297926035
+(with middle) mean response time: 23.150715515378277
+mean Middle server Length: 0.020041614077110543
+mean Off to Middle server Length: 52.94689140215991
+mean setup server Length: 26.434088819751096
+mean ON server Length: 124.99194012359271
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 1.00005775E8
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 277
+so lan tat may ON  0
+so luong queue ON trung binh:  8.756938744477656
+so luong queue Waiting trung binh:  0.005369087054167932
+
+
+--------------------------------------
+close all
+lamda = [1.00, 2.00, 3.00, 4.00, 5.00, 6.00, 7.00, 8.00, 9.00, 10.00, 11.00, 12.00, 13.00, 14.00, 15.00, 16.00, 17.00, 18.00, 19.00, 20.00, 21.00, 22.00, 23.00, 24.00, 25.00 ];
+mean waitting time = [76.78, 53.53, 42.68, 35.23, 32.48, 29.96, 28.11, 27.18, 26.52, 25.58, 24.45, 23.97, 22.80, 22.04, 21.82, 21.19, 20.83, 20.49, 20.13, 19.51, 19.13, 18.76, 18.30, 18.21, 18.15 ];
+mean response time = [81.77, 58.53, 47.68, 40.23, 37.48, 34.96, 33.10, 32.18, 31.52, 30.58, 29.45, 28.97, 27.80, 27.04, 26.82, 26.19, 25.83, 25.49, 25.13, 24.51, 24.13, 23.76, 23.30, 23.21, 23.15 ];
+mean number middle server = [0.29 ,0.37 ,0.39 ,0.25 ,0.17 ,0.14 ,0.13 ,0.11 ,0.08 ,0.07 ,0.06 ,0.05 ,0.04 ,0.04 ,0.04 ,0.04 ,0.03 ,0.03 ,0.02 ,0.02 ,0.03 ,0.02 ,0.02 ,0.02 ,0.02 ];
+mean number setup server = [8.63 ,12.59 ,16.00 ,17.20 ,18.54 ,19.28 ,20.07 ,20.95 ,21.43 ,21.78 ,22.27 ,22.64 ,22.39 ,22.97 ,23.18 ,23.54 ,24.18 ,23.90 ,24.51 ,24.81 ,25.26 ,25.87 ,26.21 ,25.75 ,26.43 ];
+mean number On server = [5.00 ,9.99 ,14.99 ,19.99 ,25.00 ,29.99 ,35.00 ,40.01 ,44.98 ,50.01 ,54.99 ,59.99 ,64.99 ,69.99 ,75.01 ,80.00 ,85.00 ,90.02 ,95.01 ,99.99 ,104.99 ,109.99 ,115.01 ,119.96 ,124.99 ];
+mean number Off to Middle server = [31.85 ,50.10 ,61.19 ,66.21 ,69.22 ,67.29 ,66.73 ,66.26 ,62.34 ,60.25 ,60.59 ,58.60 ,55.24 ,55.66 ,53.54 ,53.91 ,54.82 ,52.16 ,52.88 ,53.09 ,53.69 ,54.28 ,54.67 ,51.93 ,52.95 ];
+mean number turned off = [ ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0
+max number of queue = [ ,10 ,18 ,23 ,29 ,43 ,49 ,64 ,75 ,83 ,99 ,105 ,123 ,133 ,144 ,155 ,166 ,175 ,195 ,209 ,217 ,222 ,243 ,256 ,279 ,277
+time next = [ ,29.460598556333498 ,23.874081525869773 ,22.90485532054599 ,23.456667713434733 ,24.936262190839567 ,27.15131600573528 ,29.972679048101828 ,33.25436388007658 ,36.83108204942686 ,40.545566889998355 ,44.272769356929395 ,47.92729890211976 ,51.458213195365325 ,54.839500744549916 ,58.06130344665589 ,61.12345012059908 ,64.0311860296449 ,66.79252315836219 ,69.41666076111953 ,71.91306915750214 ,74.29099310994025 ,76.55920091532421 ,78.72585323740535 ,80.79844677338826 ,82.78382626291167job lost ratio = [ ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,2.380926927709749E-8 ,0.0 ,0.0 ,0.0 ,0.0mean number of ON queue = [ ,1.4328409770937203 ,1.7163147175126463 ,2.0766720522184805 ,2.2755322841157715 ,2.513278105687801 ,2.799121166787247 ,3.1061316144591378 ,3.4378645712262546 ,3.819012557817086 ,4.149401232022959 ,4.397897814344505 ,4.771013074781456 ,5.0701796382391 ,5.342644074873274 ,5.761180659682287 ,6.013613777345458 ,6.294181876928188 ,6.71010195248788 ,6.992423548488738 ,7.215641674464495 ,7.4635416103354135 ,7.724144629732405 ,7.951556242095498 ,8.451737187462713 ,8.756938744477656mean number of WAITING queue = [ ,0.06863236738803812 ,0.07620298617838364 ,0.09653504730392604 ,0.06115382395204095 ,0.03880425668491106 ,0.030857217058603503 ,0.027889329889209623 ,0.025708638963062955 ,0.022802801120605967 ,0.021186922397382693 ,0.018303100315462496 ,0.015835707824319107 ,0.014018496058962363 ,0.013412926803669203 ,0.011520575661653444 ,0.010610785995676658 ,0.009876255508160316 ,0.008977115102053925 ,0.008370909682195069 ,0.007677341387139521 ,0.007099714583231346 ,0.006855996714809218 ,0.006325230194235613 ,0.005819340813198954 ,0.005369087054167932
+
+--------------------------------------
+0.2
+0.002
+50
+0.2
+0.8
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 1.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001041.27958212
+(with middle) mean waitting time: 81.54257371520848
+(with middle) mean response time: 86.54430603255858
+mean Middle server Length: 0.3020673230664346
+mean Off to Middle server Length: 23.064553978106947
+mean setup server Length: 7.605915836456529
+mean ON server Length: 5.002446668698931
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 4000922.0
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 6
+so lan tat may ON  0
+so luong queue ON trung binh:  1.1363191776602881
+so luong queue Waiting trung binh:  0.054484520400889365
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 2.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001432.496788873
+(with middle) mean waitting time: 58.417428489333055
+(with middle) mean response time: 63.418009112335845
+mean Middle server Length: 0.4534773687541415
+mean Off to Middle server Length: 39.75816269674153
+mean setup server Length: 11.655548879208885
+mean ON server Length: 10.003992239388605
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 8002433.0
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 9
+so lan tat may ON  0
+so luong queue ON trung binh:  1.3043646507021136
+so luong queue Waiting trung binh:  0.07228621421118049
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 3.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001844.193843118
+(with middle) mean waitting time: 46.84420876623663
+(with middle) mean response time: 51.84145765233713
+mean Middle server Length: 0.5408331425153498
+mean Off to Middle server Length: 54.38187218506661
+mean setup server Length: 14.836542798102812
+mean ON server Length: 14.98349070769734
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 1.1993594E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 11
+so lan tat may ON  0
+so luong queue ON trung binh:  1.434125222203032
+so luong queue Waiting trung binh:  0.08035686630540331
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 4.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002282.469655035
+(with middle) mean waitting time: 40.54969304440623
+(with middle) mean response time: 45.55013863065029
+mean Middle server Length: 0.7581267482584502
+mean Off to Middle server Length: 67.50166114684657
+mean setup server Length: 17.636319351536002
+mean ON server Length: 19.99136570670041
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 1.5991924E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 13
+so lan tat may ON  0
+so luong queue ON trung binh:  1.5428271633990556
+so luong queue Waiting trung binh:  0.09142330087966342
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 5.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002797.293279208
+(with middle) mean waitting time: 35.084134821110844
+(with middle) mean response time: 40.083600452056224
+mean Middle server Length: 1.4188766974119726
+mean Off to Middle server Length: 76.71460240183839
+mean setup server Length: 20.5791948105198
+mean ON server Length: 24.992574423101892
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 1.9996677E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 17
+so lan tat may ON  0
+so luong queue ON trung binh:  1.7441718352567581
+so luong queue Waiting trung binh:  0.15938619353711378
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 6.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001698.553700628
+(with middle) mean waitting time: 28.607019922261713
+(with middle) mean response time: 33.60733521869807
+mean Middle server Length: 1.4889908093120359
+mean Off to Middle server Length: 80.5511647944573
+mean setup server Length: 22.57300509317317
+mean ON server Length: 30.01042173781821
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 2.4006822E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 17
+so lan tat may ON  0
+so luong queue ON trung binh:  1.875025486924783
+so luong queue Waiting trung binh:  0.18934026251316824
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 7.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001682.237616762
+(with middle) mean waitting time: 24.875391094904625
+(with middle) mean response time: 29.87436459728843
+mean Middle server Length: 1.1693316783972632
+mean Off to Middle server Length: 84.12395578919896
+mean setup server Length: 23.311315950547282
+mean ON server Length: 34.99051827751357
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 2.7998512E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 26
+so lan tat may ON  0
+so luong queue ON trung binh:  1.941537819530217
+so luong queue Waiting trung binh:  0.15776773836253152
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 8.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001762.9795806855
+(with middle) mean waitting time: 23.66109942639246
+(with middle) mean response time: 28.66173993821611
+mean Middle server Length: 0.8344762574727633
+mean Off to Middle server Length: 89.5019925307529
+mean setup server Length: 24.518164677285405
+mean ON server Length: 40.007447679603025
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 3.2003371E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 32
+so lan tat may ON  0
+so luong queue ON trung binh:  2.023001510971181
+so luong queue Waiting trung binh:  0.11866730826004357
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 9.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002963.5863922825
+(with middle) mean waitting time: 22.272334195998013
+(with middle) mean response time: 27.272776879663972
+mean Middle server Length: 0.5942693046902289
+mean Off to Middle server Length: 91.4418659902625
+mean setup server Length: 25.141894698468615
+mean ON server Length: 45.004070214031316
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 3.6001245E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 37
+so lan tat may ON  0
+so luong queue ON trung binh:  2.0934840655503115
+so luong queue Waiting trung binh:  0.08925860260735106
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 10.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002086.65538534
+(with middle) mean waitting time: 21.923986327332454
+(with middle) mean response time: 26.9237787877489
+mean Middle server Length: 0.41235969161171093
+mean Off to Middle server Length: 93.88125800057192
+mean setup server Length: 26.11841250432897
+mean ON server Length: 50.00667162493284
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 4.000838E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 41
+so lan tat may ON  0
+so luong queue ON trung binh:  2.1948420217355493
+so luong queue Waiting trung binh:  0.06510775700837466
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 11.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002365.071178108
+(with middle) mean waitting time: 21.55334177793202
+(with middle) mean response time: 26.55438541447548
+mean Middle server Length: 0.3559981376271007
+mean Off to Middle server Length: 95.05915147870702
+mean setup server Length: 26.913403687218175
+mean ON server Length: 54.99635145236708
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 4.3988614E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 41
+so lan tat may ON  0
+so luong queue ON trung binh:  2.304397560227
+so luong queue Waiting trung binh:  0.05013888513510633
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 12.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001809.0133732185
+(with middle) mean waitting time: 21.315892216941545
+(with middle) mean response time: 26.316001496214668
+mean Middle server Length: 0.30716253344697725
+mean Off to Middle server Length: 95.56799715403939
+mean setup server Length: 27.657370363323512
+mean ON server Length: 60.007977093919145
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 4.8006067E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 51
+so lan tat may ON  0
+so luong queue ON trung binh:  2.437697402901569
+so luong queue Waiting trung binh:  0.041294363800386716
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 13.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002000.719459957
+(with middle) mean waitting time: 20.460946373510364
+(with middle) mean response time: 25.461869320396268
+mean Middle server Length: 0.3057952990662091
+mean Off to Middle server Length: 91.9125567896133
+mean setup server Length: 27.494987224438667
+mean ON server Length: 65.00022154716626
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 5.1991639E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 57
+so lan tat may ON  0
+so luong queue ON trung binh:  2.5523318095599903
+so luong queue Waiting trung binh:  0.03867300776533582
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 14.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001924.962716842
+(with middle) mean waitting time: 20.316950790422602
+(with middle) mean response time: 25.31711572378878
+mean Middle server Length: 0.2785255524952983
+mean Off to Middle server Length: 91.0066918435378
+mean setup server Length: 27.97159904398429
+mean ON server Length: 69.99207358664474
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 5.5992705E7
+**** total job lost: 1
+**** ti le job lost = joblost / numberofjob: 1.785946937194765E-8
+total vm: 0
+total sub datacenter create: 62
+so lan tat may ON  0
+so luong queue ON trung binh:  2.7060487873770875
+so luong queue Waiting trung binh:  0.03610599290991094
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 15.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002827.859725145
+(with middle) mean waitting time: 20.170220164698485
+(with middle) mean response time: 25.169955047340743
+mean Middle server Length: 0.27099196420112437
+mean Off to Middle server Length: 87.78052420546994
+mean setup server Length: 28.185978467724496
+mean ON server Length: 74.99613553093067
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 6.0003673E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 71
+so lan tat may ON  0
+so luong queue ON trung binh:  2.8867610815228963
+so luong queue Waiting trung binh:  0.037417928953209244
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 16.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8006252.883259643
+(with middle) mean waitting time: 19.97202678950323
+(with middle) mean response time: 24.97154870726489
+mean Middle server Length: 0.23303615906682099
+mean Off to Middle server Length: 85.74492393403041
+mean setup server Length: 28.382800677068325
+mean ON server Length: 79.98815860238908
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 6.3998129E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 74
+so lan tat may ON  0
+so luong queue ON trung binh:  3.0394949812991214
+so luong queue Waiting trung binh:  0.036492314703947974
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 17.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002657.645824935
+(with middle) mean waitting time: 19.87260543134042
+(with middle) mean response time: 24.872917872611076
+mean Middle server Length: 0.19754017264456825
+mean Off to Middle server Length: 81.65239539800525
+mean setup server Length: 28.4250426038909
+mean ON server Length: 85.00633817026825
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 6.8002855E7
+**** total job lost: 1
+**** ti le job lost = joblost / numberofjob: 1.4705264948067254E-8
+total vm: 0
+total sub datacenter create: 82
+so lan tat may ON  0
+so luong queue ON trung binh:  3.2209157708833436
+so luong queue Waiting trung binh:  0.03600442755768368
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 18.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002096.290123266
+(with middle) mean waitting time: 20.014980701798375
+(with middle) mean response time: 25.01547518680194
+mean Middle server Length: 0.19535670956860587
+mean Off to Middle server Length: 79.86700060017776
+mean setup server Length: 28.704235480625428
+mean ON server Length: 90.01275667856325
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 7.200653E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 88
+so lan tat may ON  0
+so luong queue ON trung binh:  3.3969001772025864
+so luong queue Waiting trung binh:  0.037597299405835886
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 19.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002011.884956504
+(with middle) mean waitting time: 20.02479408347442
+(with middle) mean response time: 25.025529248232434
+mean Middle server Length: 0.15315985753319145
+mean Off to Middle server Length: 77.79594502003391
+mean setup server Length: 28.98106481025874
+mean ON server Length: 95.00978355781363
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 7.6000772E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 91
+so lan tat may ON  0
+so luong queue ON trung binh:  3.5794442488546845
+so luong queue Waiting trung binh:  0.0349777794499254
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 20.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002045.81938778
+(with middle) mean waitting time: 19.902322327267733
+(with middle) mean response time: 24.902905704249264
+mean Middle server Length: 0.13658659751093388
+mean Off to Middle server Length: 75.34329433304617
+mean setup server Length: 28.977452655112632
+mean ON server Length: 100.00021513384566
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 7.9992888E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 102
+so lan tat may ON  0
+so luong queue ON trung binh:  3.7508631405040402
+so luong queue Waiting trung binh:  0.033672516154864496
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 21.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001773.049033232
+(with middle) mean waitting time: 19.535553343727496
+(with middle) mean response time: 24.53580703866619
+mean Middle server Length: 0.1300643383175783
+mean Off to Middle server Length: 72.23081462260272
+mean setup server Length: 28.76963764376194
+mean ON server Length: 105.01843284771458
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 8.4015835E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 106
+so lan tat may ON  0
+so luong queue ON trung binh:  3.8998994412739947
+so luong queue Waiting trung binh:  0.03307282097208089
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 22.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001930.810424711
+(with middle) mean waitting time: 19.00956257781702
+(with middle) mean response time: 24.010181641327186
+mean Middle server Length: 0.11456160159125109
+mean Off to Middle server Length: 68.9377458412731
+mean setup server Length: 28.32168393745894
+mean ON server Length: 110.007254367071
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 8.8000677E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 116
+so lan tat may ON  0
+so luong queue ON trung binh:  4.055991103787328
+so luong queue Waiting trung binh:  0.031905853324823714
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 23.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8001688.378160622
+(with middle) mean waitting time: 18.737133062882577
+(with middle) mean response time: 23.737452644059214
+mean Middle server Length: 0.10649955263225676
+mean Off to Middle server Length: 66.20091820459872
+mean setup server Length: 28.033840459869033
+mean ON server Length: 115.00555803288785
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 9.2000897E7
+**** total job lost: 1
+**** ti le job lost = joblost / numberofjob: 1.0869459240163712E-8
+total vm: 0
+total sub datacenter create: 128
+so lan tat may ON  0
+so luong queue ON trung binh:  4.216589807948211
+so luong queue Waiting trung binh:  0.02968458401578037
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 24.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8002251.745090652
+(with middle) mean waitting time: 18.411478208422654
+(with middle) mean response time: 23.411741781844405
+mean Middle server Length: 0.10083159083216055
+mean Off to Middle server Length: 65.72091316518764
+mean setup server Length: 28.21169513716084
+mean ON server Length: 119.99424550689615
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 9.5998842E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 128
+so lan tat may ON  0
+so luong queue ON trung binh:  4.350220933062976
+so luong queue Waiting trung binh:  0.027857368930833876
+
+multiqueue system (with middle) Starting simulation... chay voi alpha = 0.002 muy = 0.2 capacity = 100 lamda = 25.0 threshold down = 0.2 threshold up 0.8
+
+
+total time simulate: 8003174.697628652
+(with middle) mean waitting time: 18.213883759088937
+(with middle) mean response time: 23.21325337003259
+mean Middle server Length: 0.08713143208051706
+mean Off to Middle server Length: 63.256409305573605
+mean setup server Length: 27.8211284029041
+mean ON server Length: 124.97321188885874
+total time no Middle server: 0.0
+number of job (trong khoang thoi gian xet: 9.9995864E7
+**** total job lost: 0
+**** ti le job lost = joblost / numberofjob: 0.0
+total vm: 0
+total sub datacenter create: 140
+so lan tat may ON  0
+so luong queue ON trung binh:  4.518397875681065
+so luong queue Waiting trung binh:  0.025447230465344757
+
+
+--------------------------------------
+close all
+lamda = [1.00, 2.00, 3.00, 4.00, 5.00, 6.00, 7.00, 8.00, 9.00, 10.00, 11.00, 12.00, 13.00, 14.00, 15.00, 16.00, 17.00, 18.00, 19.00, 20.00, 21.00, 22.00, 23.00, 24.00, 25.00 ];
+mean waitting time = [81.54, 58.42, 46.84, 40.55, 35.08, 28.61, 24.88, 23.66, 22.27, 21.92, 21.55, 21.32, 20.46, 20.32, 20.17, 19.97, 19.87, 20.01, 20.02, 19.90, 19.54, 19.01, 18.74, 18.41, 18.21 ];
+mean response time = [86.54, 63.42, 51.84, 45.55, 40.08, 33.61, 29.87, 28.66, 27.27, 26.92, 26.55, 26.32, 25.46, 25.32, 25.17, 24.97, 24.87, 25.02, 25.03, 24.90, 24.54, 24.01, 23.74, 23.41, 23.21 ];
+mean number middle server = [0.30 ,0.45 ,0.54 ,0.76 ,1.42 ,1.49 ,1.17 ,0.83 ,0.59 ,0.41 ,0.36 ,0.31 ,0.31 ,0.28 ,0.27 ,0.23 ,0.20 ,0.20 ,0.15 ,0.14 ,0.13 ,0.11 ,0.11 ,0.10 ,0.09 ];
+mean number setup server = [7.61 ,11.66 ,14.84 ,17.64 ,20.58 ,22.57 ,23.31 ,24.52 ,25.14 ,26.12 ,26.91 ,27.66 ,27.49 ,27.97 ,28.19 ,28.38 ,28.43 ,28.70 ,28.98 ,28.98 ,28.77 ,28.32 ,28.03 ,28.21 ,27.82 ];
+mean number On server = [5.00 ,10.00 ,14.98 ,19.99 ,24.99 ,30.01 ,34.99 ,40.01 ,45.00 ,50.01 ,55.00 ,60.01 ,65.00 ,69.99 ,75.00 ,79.99 ,85.01 ,90.01 ,95.01 ,100.00 ,105.02 ,110.01 ,115.01 ,119.99 ,124.97 ];
+mean number Off to Middle server = [23.06 ,39.76 ,54.38 ,67.50 ,76.71 ,80.55 ,84.12 ,89.50 ,91.44 ,93.88 ,95.06 ,95.57 ,91.91 ,91.01 ,87.78 ,85.74 ,81.65 ,79.87 ,77.80 ,75.34 ,72.23 ,68.94 ,66.20 ,65.72 ,63.26 ];
+mean number turned off = [ ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0
+max number of queue = [ ,6 ,9 ,11 ,13 ,17 ,17 ,26 ,32 ,37 ,41 ,41 ,51 ,57 ,62 ,71 ,74 ,82 ,88 ,91 ,102 ,106 ,116 ,128 ,128 ,140
+time next = [ ,28.364037230700216 ,20.072338825593118 ,16.7019876767899 ,15.013855743024973 ,14.132253106218858 ,13.71000164519592 ,13.586527396301934 ,13.683068293577751 ,13.96259789483065 ,14.411260129924992 ,15.027996018495324 ,15.817927616920459 ,16.787586086664422 ,17.940942837661 ,19.27597786407007 ,20.782265483513157 ,22.440370739479363 ,24.22343573347669 ,26.100437208396396 ,28.039922948590693 ,30.01307477398065 ,31.99552633657103 ,33.96797510067865 ,35.915952518917315 ,37.82915592609672job lost ratio = [ ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,1.785946937194765E-8 ,0.0 ,0.0 ,1.4705264948067254E-8 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,1.0869459240163712E-8 ,0.0 ,0.0mean number of ON queue = [ ,1.1363191776602881 ,1.3043646507021136 ,1.434125222203032 ,1.5428271633990556 ,1.7441718352567581 ,1.875025486924783 ,1.941537819530217 ,2.023001510971181 ,2.0934840655503115 ,2.1948420217355493 ,2.304397560227 ,2.437697402901569 ,2.5523318095599903 ,2.7060487873770875 ,2.8867610815228963 ,3.0394949812991214 ,3.2209157708833436 ,3.3969001772025864 ,3.5794442488546845 ,3.7508631405040402 ,3.8998994412739947 ,4.055991103787328 ,4.216589807948211 ,4.350220933062976 ,4.518397875681065mean number of WAITING queue = [ ,0.054484520400889365 ,0.07228621421118049 ,0.08035686630540331 ,0.09142330087966342 ,0.15938619353711378 ,0.18934026251316824 ,0.15776773836253152 ,0.11866730826004357 ,0.08925860260735106 ,0.06510775700837466 ,0.05013888513510633 ,0.041294363800386716 ,0.03867300776533582 ,0.03610599290991094 ,0.037417928953209244 ,0.036492314703947974 ,0.03600442755768368 ,0.037597299405835886 ,0.0349777794499254 ,0.033672516154864496 ,0.03307282097208089 ,0.031905853324823714 ,0.02968458401578037 ,0.027857368930833876 ,0.025447230465344757
+
+--------------------------------------
+0.2
+0.002
+100
+0.2
+0.8
