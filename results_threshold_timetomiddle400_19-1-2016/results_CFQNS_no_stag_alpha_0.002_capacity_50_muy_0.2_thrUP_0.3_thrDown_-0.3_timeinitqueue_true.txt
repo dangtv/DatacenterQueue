@@ -1,0 +1,38 @@
+
+--------------------------------------
+alpha = 0.002
+
+close all
+lamda = [7.0, 11.0, 15.0];
+mean_waitting_time50 = [27.04258592235358, 23.752930373583855, 21.14635509038564];
+mean_response_time50 = [32.04445403734677, 28.752101551857912, 26.147264374947145];
+mean_number_of_middle_server50 = [0.36264885593472945, 0.16216312063280724, 0.08838777084904571];
+mean_number_of_setup_server50 = [21.076798888121868, 23.067080408036976, 23.55701934062651];
+mean_number_of_on_server50 = [35.008669722028884, 54.98406639925544, 75.01023165988867];
+mean_number_of_off_to_middle_server50 = [71.75500537798686, 63.88208081454945, 55.688363716881604];
+mean_number_turned_off50 = [0, 0, 0];
+max_number_of_queue50 = [59, 113, 161];
+time_next50 = [29.972679048101828, 44.272769356929395, 58.06130344665589];
+job_lost_ratio50 = [0.0, 0.0, 0.0];
+mean_number_of_ON_queue50 = [3.401558825956934, 4.6726369928498075, 5.962968476908758];
+mean_number_of_WAITING_queue50 = [0.10654357863515398, 0.06607110609196822, 0.04593709057779287];
+
+_____________________________
+
+plot(lamda,mean_waitting_time,'r',lamda,mean_waitting_time_no_middle,'-xb');
+title('alpha = 0.002'); xlabel('lamda');ylabel('mean waitting time');
+legend('with middle','no middle');
+ylim([0 max(max(mean_waitting_time),max(mean_waitting_time_no_middle))*10/9]);figure(2);
+plot(lamda,mean_number_of_middle_server,'r'); title('alpha = 0.002');xlabel('lamda');ylabel('mean number of middle server');
+ylim([0 max(mean_number_of_middle_server)*10/9]);figure(3);
+plot(lamda,mean_number_of_off_to_middle_server,'r'); title('alpha = 0.002');xlabel('lamda');ylabel('mean number off to middle server');
+ylim([0 max(mean_number_of_off_to_middle_server)*10/9]);figure(4);
+plot(lamda,mean_number_of_setup_server,'r',lamda,mean_number_of_setup_server_no_middle,'-xb');
+title('alpha = 0.002'); xlabel('lamda');ylabel('mean number setup server');
+legend('with middle','without middle');
+ylim([0 max(max(mean_number_of_setup_server),max(mean_number_of_setup_server_no_middle))*10/9]);figure(5);
+plot(lamda,mean_number_of_on_server,'r',lamda,mean_number_of_on_server_no_middle,'-xb');
+title('alpha = 0.002'); xlabel('lamda');ylabel('mean number on server');
+legend('with middle','without middle');
+ylim([0 max(max(mean_number_of_on_server),max(mean_number_of_on_server_no_middle))*10/9]);
+--------------------------------------
