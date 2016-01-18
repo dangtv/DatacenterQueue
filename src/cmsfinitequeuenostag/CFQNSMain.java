@@ -16,8 +16,8 @@ public class CFQNSMain {
     public static double[] muy = {0.2};
     public static double[] alpha = {0.002};//, 0.001};//,0.5, 1, 5, 10, 20, 50, 100, 150, 200};
     public static int[] capacity = {100};//, 3000, 2000, 1000};
-    public static double[] listThrUp = {0.8};
-    public static double[] listThrDown = {0.2};
+    public static double[] listThrUp = {0.3};
+    public static double[] listThrDown = {-0.3};
     public static int timetomiddle = 400;
 
     public static void chayvoilamdathaydoimultiqueues() throws IOException {
@@ -28,7 +28,7 @@ public class CFQNSMain {
 
         boolean hasTimeInitQueue = true; // thay doi cai nay phai thay doi ham init() trong file datacenter
 
-        double[] lamdaarray = {1,3,5,7,9,11,13,15,17,19};
+        double[] lamdaarray = {7,11,15};//1,3,5,7,9,11,13,15,17,19};
         int n = lamdaarray.length;
 
         double[] meanWaittimeNoMiddle = new double[n];
